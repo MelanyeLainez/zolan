@@ -1,6 +1,6 @@
-Zolan - Modern & Minimal Theme for Jekyll
+Melanye - Modern & Minimal Theme for Jekyll
 ======
-Zolan is a minimal blog theme for Jekyll.
+Melanye is a minimal blog theme for Jekyll.
 
 * * *
 
@@ -12,7 +12,6 @@ Table of Contents
 *   [Posts](#posts)
 *   [Disqus Comments](#DisqusComments)
 *   [Instagram](#instagram)
-*   [Google Analytics](#GoogleAnalytics)
 *   [Update favicon](#UpdateFavicon)
 *   [Credits](#Credits)
 *   [Support](#Support)
